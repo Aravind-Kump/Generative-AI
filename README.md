@@ -1,11 +1,11 @@
-# Generative-AI
+## Generative-AI
 
 AI != ML
 
-AI :
+# AI :
 Is a theory and development of computer systems able to perform tasks normally requiring human intelligence. 
 
-ML:
+# ML:
 Is a subfield of AI
 ML gives computer the ability to learn without explicit programming. 
 
@@ -13,3 +13,25 @@ ML gives computer the ability to learn without explicit programming.
        1. Unsupervised ML models
        2. Supervised ML models
 
+- In supervised learning we are learning from past examples to predict future values.
+
+- Unsupervised problems are all about looking at the raw data, and seeing if it naturally falls into groups.
+
+# Deep Learning:
+Deep learning use Artificial Neural Networks - allowing them to process more complex patterns than traditional machine learning. (Semi supervises models)
+
+# Generative AI:
+Generative AI is a subset of Deep learning.
+Large Languaged Models(LLMs) are also a subset of Deep Learning.
+
+## Deep Learning Model Types:
+       1. Discriminative
+         - Used to classify or predict
+         - Typically trained on a dataset of labeled data
+         - Learns the relationship between the features of the data points and the labels
+
+         
+       2. Generative
+         - Generates new data that is similar to data it was trained on
+         - Understands distribution of data and how likely a given example is
+         - Predict next word in a sequence
