@@ -39,4 +39,8 @@ Large Languaged Models(LLMs) are also a subset of Deep Learning.
 - GenAI is a type of AI that creates new content based on what it has learned from existing content.
 - The process of learning from existing content is called training and results in the creation of a statistical model.
 - When given a prompt, GenAI uses this statistical model to predict what an expected response might be and this generates new content.
-  
+
+## Generative Models
+   1. Generative 'Language' models  -- Learn about patterns in language through training data. Given some text, they predict what comes next.
+   2. Generative 'Image' models  -- Produce new images using techniques like diffusion. Given a prompt or related imagery, they transform random noise into images or generate images from prompts. 
+      
