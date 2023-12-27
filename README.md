@@ -56,4 +56,6 @@ Model Types: (Foundation models)
 5. text -to- task
 
 Vertex AI Foundation models.
+
+GenAI Studio
       
