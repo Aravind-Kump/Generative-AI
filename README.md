@@ -1,6 +1,6 @@
-## Generative-AI
+# Generative-AI
 
-AI != ML
+## AI != ML
 
 # AI :
 Is a theory and development of computer systems able to perform tasks normally requiring human intelligence. 
@@ -35,3 +35,8 @@ Large Languaged Models(LLMs) are also a subset of Deep Learning.
          - Generates new data that is similar to data it was trained on
          - Understands distribution of data and how likely a given example is
          - Predict next word in a sequence
+
+- GenAI is a type of AI that creates new content based on what it has learned from existing content.
+- The process of learning from existing content is called training and results in the creation of a statistical model.
+- When given a prompt, GenAI uses this statistical model to predict what an expected response might be and this generates new content.
+  
