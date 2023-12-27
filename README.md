@@ -42,5 +42,18 @@ Large Languaged Models(LLMs) are also a subset of Deep Learning.
 
 ## Generative Models
    1. Generative 'Language' models  -- Learn about patterns in language through training data. Given some text, they predict what comes next.
-   2. Generative 'Image' models  -- Produce new images using techniques like diffusion. Given a prompt or related imagery, they transform random noise into images or generate images from prompts. 
+   2. Generative 'Image' models  -- Produce new images using techniques like diffusion. Given a prompt or related imagery, they transform random noise into images or generate images from prompts.
+
+
+Transformers
+
+
+Model Types: (Foundation models)
+1. text -to- text
+2. text -to- image
+3. text -to- video
+4. test -to- 3D
+5. text -to- task
+
+Vertex AI Foundation models.
       
