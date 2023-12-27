@@ -58,4 +58,6 @@ Model Types: (Foundation models)
 Vertex AI Foundation models.
 
 GenAI Studio
+
+PaLM API & MakerSuite simplifies Generative Development Cycle.
       
