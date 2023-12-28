@@ -8,7 +8,10 @@
 - Reinforcement learning
 
 ### Supervised Learning
-Learns for being given 'right answers'
+Learns for being given 'right answers'. 
+Learn from data labeled with 'right answers'.
+
+Uses Regression to predict a number/output.
 
 | Input(X)      |          Output(Y)    |     Application       |
 |---------------|-----------------------|-----------------------|
@@ -19,3 +22,11 @@ Learns for being given 'right answers'
 | image, radar info |  postion of other cars | Self driving car |
 | image of phone |     defect? (0/1)    |  visual inspection    |
 
+Regression
+Predict a number infintely many possible outputs 
+
+Classification 
+Predict catefories small number of possible outputs.
+
+### Unsupervised Learning
+Find something interesting in unlabeled data.
